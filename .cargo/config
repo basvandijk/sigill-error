@@ -1,0 +1,2 @@
+[build]
+rustflags = ["-L", "/nix/store/9wrhqchpybsxzapxp6xam55k3ll5lqlv-libc++-5.0.2/lib/", "-lstatic=c++", "-L", "/nix/store/494hlds070hfkym126dgb3kmqc7bgsz4-libc++abi-5.0.2/lib", "-lstatic=c++abi" ]
